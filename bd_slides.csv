@@ -1,0 +1,12 @@
+Nombre;Edad;Altura;Sexo;Nacionalidad;Inscrito
+Danielle;23;1.71;F;Argentina;True
+Claudia;28;1.65;F;Uruguay;True
+Marcos;18;1.80;M;Chile;False
+Rodolfo;33;1.54;M;Chile;True
+Rolando;21;1.70;M;EEUU;True
+Florencia;19;1.69;F;Uruguay;False
+Pablo;54;2.01;M;Argentina;False
+Mauricio;40;1.91;M;Chile;True
+Christian;20;1.85;M;Argentina;True
+Salvador;33;1.62;M;Chile;True
+Rodolfo;46;1.66;M;Uruguay;True
